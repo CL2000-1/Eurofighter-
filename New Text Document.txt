@@ -1,0 +1,9 @@
+<div class="row">
+  <div class="column">
+    <img src="images/cockpit1.jpg" alt="cockpit1" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/cockpit2.jpg" alt="cockpit2" style="width:100%">
+  </div>
+</div>
+
